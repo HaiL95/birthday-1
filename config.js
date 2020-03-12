@@ -6,12 +6,12 @@ var config = {
         "致",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "亲爱的曾曾",  // 同上...
         "两个月没见了", 
-        "好想念曾曾呀",
+        "好想念曾曾",
         "想被曾曾瞪",
         "想抱抱曾曾",
         "想亲亲曾曾",
-        "最近有好好听JJ的歌",
-        "下次可以一起唱2333",
+        "最近有在听JJ的歌",
+        "下次可以一起唱了2333",
         "最后 再一次",
         "生日快乐",
         "又老了一岁（x）",
@@ -26,17 +26,17 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        " ": "./imgs/xiaokeai.png",
+        "可爱的曾曾": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "点我",
         play: "音乐♪",
-        bannar_coming: "曾曾的话",
-        balloons_flying: "听前奏就能听出来吧 嘿嘿",
-        cake_fadein: "上蛋糕",
-        light_candle: "点蜡烛",
+        bannar_coming: "声音可能有点小",
+        balloons_flying: "不过 曾曾的话 听前奏就能听出来吧 嘿嘿",
+        cake_fadein: "端上蛋糕",
+        light_candle: "电亮蜡烛",
         wish_message: "曾曾",
         story: "生日快乐哦",
     }
